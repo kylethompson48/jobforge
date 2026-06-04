@@ -1,3 +1,4 @@
+# ai-generated interview prep model — stores questions and tips as jsonb, linked to a specific application
 import uuid
 from datetime import datetime, timezone
 from sqlalchemy import Column, DateTime, ForeignKey, Integer, String

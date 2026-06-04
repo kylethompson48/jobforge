@@ -1,3 +1,4 @@
+# user account model — stores credentials, profile info, and relationships to all user-owned data
 import uuid
 from datetime import datetime, timezone
 from sqlalchemy import Boolean, Column, DateTime, String

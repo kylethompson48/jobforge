@@ -1,3 +1,4 @@
+# ai-generated resume model — references the s3 keys for the source and output files, tracks token usage for cost monitoring
 import uuid
 from datetime import datetime, timezone
 from sqlalchemy import Column, DateTime, ForeignKey, Integer, String

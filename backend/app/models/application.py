@@ -1,3 +1,4 @@
+# job application model — tracks each application through its lifecycle with a 7-state status enum
 import enum
 import uuid
 from datetime import datetime, timezone
